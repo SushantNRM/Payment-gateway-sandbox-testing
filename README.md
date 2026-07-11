@@ -21,11 +21,13 @@ to build hands-on card payment domain testing experience.
 - Excel (test case design and documentation)
 - Manual defect logging with reproduction steps (JIRA-style format)
 
--> Deliverables
+->Deliverables
 - 20 documented test cases with pre-conditions, steps, test data, 
   expected/actual results (see Payment_Gateway_Test_Cases.xlsx)
-- 3 sample defect reports with severity/priority classification
-- Screenshots of executed test transactions (see /screenshots folder)
+- Executed scenarios: successful card payment (with OTP/3DS authentication), 
+  payment failure/timeout, and exploratory finding on card-network restrictions
+- Screenshots of key executed transactions (see uploaded images)
+- Sample defect log entries with reproduction steps
 
 -> Key Learnings
 Applied payment transaction lifecycle concepts (authorization, capture, 
