@@ -1,6 +1,6 @@
 
 Testing of payment transactions using Razorpay sandbox
-# Payment Gateway Sandbox Testing – Card & UPI Transactions
+# Payment Gateway Sandbox Testing – Card Transactions
 
  -> Objective 
 Manual QA testing of payment transaction flows using Razorpay's test/sandbox 
