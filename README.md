@@ -4,7 +4,7 @@ Testing of payment transactions using Razorpay sandbox
 
  -> Objective 
 Manual QA testing of payment transaction flows using Razorpay's test/sandbox 
-environment, covering card and UPI payment methods, as a self-driven project 
+environment as a self-driven project 
 to build hands-on card payment domain testing experience.
 
 -> Scope
