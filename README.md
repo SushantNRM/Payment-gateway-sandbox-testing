@@ -11,7 +11,6 @@ to build hands-on card payment domain testing experience.
 - Card payment lifecycle: authorization, capture, decline scenarios
 - Negative/failure scenarios: payment timeout, invalid card, insufficient funds
 - OTP / 3D Secure authentication flows (success and failure)
-- UPI payment success and failure flows
 - Reconciliation checks: verifying transaction status consistency between 
   checkout UI and merchant dashboard
 - Refund and partial refund verification
