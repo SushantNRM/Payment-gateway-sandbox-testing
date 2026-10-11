@@ -2,7 +2,7 @@
 Testing of payment transactions using Razorpay sandbox
 # Payment Gateway Sandbox Testing – Card Transactions
 
- -> Objective 
+ Objective :-
 Testing of payment transaction flows using Razorpay's test/sandbox 
 environment as a self-driven project 
 to build hands-on card payment domain testing experience.
